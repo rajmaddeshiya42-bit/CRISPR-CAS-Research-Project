@@ -30,3 +30,9 @@ An overview of the CRISPR-Cas9 mechanism, how guide RNA (gRNA) targets specific 
 
 ### 🔮 Future Scope
 The integration of AI/ML in predicting off-target effects and the rise of "Prime Editing" for safer, more precise genetic corrections.
+
+## 👨‍🔬 Author
+Raj Maddheshiya
+CodeAlpha Biotechnology Intern
+June 2026
+
