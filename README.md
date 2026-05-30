@@ -1,7 +1,4 @@
-# 🧬 CRISPR & Gene Therapy: Recent Advancements
-
-[span_0](start_span)[span_1](start_span)This project was successfully completed as part of my **CodeAlpha Biotechnology Internship**[span_0](end_span)[span_1](end_span). [span_2](start_span)[span_3](start_span)It focuses on the latest breakthroughs in genome editing technologies and their therapeutic applications[span_2](end_span)[span_3](end_span).
-
+This project was successfully completed as part of my **CodeAlpha Biotechnology Internship**[span_0](end_span)[span_1](end_span). [span_2](start_span)[span_3](start_span)It focuses on the latest breakthroughs in genome editing technologies and their therapeutic applications[span_2].
 ## 📋 Table of Contents
 - [Introduction to CRISPR-Cas9](#-introduction)
 - [Key Applications in Healthcare & Agriculture](#-applications)
