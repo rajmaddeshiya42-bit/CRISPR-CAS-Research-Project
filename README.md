@@ -1,4 +1,4 @@
-This project was successfully completed as part of my **CodeAlpha Biotechnology Internship**[span_0](end_span)[span_1](end_span). [span_2](start_span)[span_3](start_span)It focuses on the latest breakthroughs in genome editing technologies and their therapeutic applications[span_2].
+This project was successfully completed as part of my **CodeAlpha Biotechnology Internship**It focuses on the latest breakthroughs in genome editing technologies and their therapeutic applications[span_2].
 ## 📋 Table of Contents
 - [Introduction to CRISPR-Cas9](#-introduction)
 - [Key Applications in Healthcare & Agriculture](#-applications)
