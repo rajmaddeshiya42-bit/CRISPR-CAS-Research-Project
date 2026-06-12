@@ -1,4 +1,7 @@
-This project was successfully completed as part of my **CodeAlpha Biotechnology Internship**It focuses on the latest breakthroughs in genome editing technologies and their therapeutic applications[span_2].
+This project was successfully completed as part of my **CodeAlpha Biotechnology Internship**# 🧬 CRISPR-Cas9 and Gene Therapy
+
+A biotechnology research project completed as part of the CodeAlpha Biotechnology Internship Program.
+
 ## 📋 Table of Contents
 - [Introduction to CRISPR-Cas9](#-introduction)
 - [Key Applications in Healthcare & Agriculture](#-applications)
